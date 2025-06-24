@@ -2,6 +2,6 @@
 
 ## Hola, soy Álvaro Trigueros👋  
 
-<img src="BanerGit" alt="Imagen de Álvaro Trigueros" />
+<img src="BanerGit.png" alt="Imagen de Álvaro Trigueros" />
 
 </div>
