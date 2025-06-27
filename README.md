@@ -8,7 +8,7 @@
 
 ---
 
-🎯 **Desarrollador Web con muchas ganas de seguir aprendiendo y creciendo en el mundo tech.**
+🎯 **Desarrollador Web con muchas ganas de seguir aprendiendo y creciendo en el mundo de la programación.**
 
 ¡Hola! Soy **Álvaro Trigueros** y he estudiado **Desarrollo de Aplicaciones Web**. Me gusta todo lo relacionado con la tecnología y disfruto creando páginas y aplicaciones que no solo funcionen bien, sino que también ofrezcan una buena experiencia al usuario.
 
